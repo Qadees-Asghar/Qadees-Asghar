@@ -10,7 +10,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Qadees-Asghar&theme=github_dark" width="90%" />
 </div>
 
----
 
 ## Profile Summary
 
@@ -31,7 +30,6 @@ Passionate about building intelligent systems and scalable software solutions.
   />
 </p>
 
----
 
 ## Education
 
@@ -54,7 +52,6 @@ Passionate about building intelligent systems and scalable software solutions.
   <img width="500" height="167" alt="UET Logo" src="https://github.com/user-attachments/assets/254b1ccb-816c-4c8f-957d-7315e46eb0af" />
 </div>
 
----
 
 ## Research Interests
 
@@ -66,7 +63,6 @@ Passionate about building intelligent systems and scalable software solutions.
   <img src="https://img.shields.io/badge/Big%20Data-E67E22?style=for-the-badge" />
 </div>
 
----
 
 ## Technical Stack
 
@@ -80,7 +76,6 @@ Passionate about building intelligent systems and scalable software solutions.
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logoColor=black" />
 </div>
 
----
 
 ## Contact
 
@@ -102,7 +97,6 @@ Passionate about building intelligent systems and scalable software solutions.
   </a>
 </div>
 
----
 
 <p align="center">
 Built for software engineering, ML research, and future opportunities
