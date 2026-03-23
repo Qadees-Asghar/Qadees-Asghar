@@ -1,9 +1,9 @@
 <h2 align="center">Hi there, Welcome to my GitHub Profile!</h2>
 
 <div align="center">  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=6a0dad&center=true&vCenter=true&width=700&height=100&lines=Qadees+Asghar" alt="Qadees Asghar" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&height=100&lines=Qadees+Asghar" alt="Qadees Asghar" />
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9400D3&center=true&vCenter=true&width=700&height=60&lines=Software+Engineer+%7C+ML+%26+LLM+Enthusiast" alt="Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00CED1&center=true&vCenter=true&width=700&height=60&lines=Software+Engineer+%7C+ML+%26+LLM" alt="Subtitle" />
 </div>
 
 <div align="center">
@@ -37,7 +37,7 @@ Passionate about building intelligent systems and scalable software solutions.
 
 <div align="center" style="max-width:900px; margin:auto;">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:1a0533,100:6a0dad&text=Bachelor%20of%20Engineering%20in%20Software%20Engineering&fontSize=28&fontColor=ffffff&desc=UET%20Lahore&descSize=20&descAlignY=72"
+    src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:001F4D,100:0099CC&text=Bachelor%20of%20Engineering%20in%20Software%20Engineering&fontSize=28&fontColor=ffffff&desc=UET%20Lahore&descSize=20&descAlignY=72"
     width="100%"
   />
 </div>
@@ -45,7 +45,7 @@ Passionate about building intelligent systems and scalable software solutions.
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Year-1st%20Year-6a0dad?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Year-1st%20Year-0099CC?style=for-the-badge" />
 </div>
 
 <br/><br/>
@@ -59,11 +59,11 @@ Passionate about building intelligent systems and scalable software solutions.
 ## Research Interests
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Software%20Design-6a0dad?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-8B008B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-9400D3?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Large%20Language%20Models-5B2C8C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Big%20Data-4B0082?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Software%20Design-0057A8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-008080?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-00868B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Large%20Language%20Models-0099CC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Big%20Data-005F73?style=for-the-badge" />
 </div>
 
 ---
@@ -86,11 +86,11 @@ Passionate about building intelligent systems and scalable software solutions.
 
 <div align="center">
   <a href="mailto:theqadees@gmail.com">
-    <img src="https://img.shields.io/badge/Email%201-theqadees@gmail.com-6a0dad?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Email%201-theqadees@gmail.com-0099CC?style=for-the-badge" />
   </a>
   <br><br>
   <a href="mailto:qadeesasghar404@gmail.com">
-    <img src="https://img.shields.io/badge/Email%202-qadeesasghar404@gmail.com-6a0dad?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Email%202-qadeesasghar404@gmail.com-0099CC?style=for-the-badge" />
   </a>
   <br><br>
   <a href="https://www.linkedin.com/in/qadees-asghar-734307316">
