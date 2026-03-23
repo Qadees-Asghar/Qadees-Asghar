@@ -7,7 +7,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Qadees-Asghar&theme=github_dark" width="90%" />
 </div>
 
----
 
 ## Profile Summary
 
@@ -28,7 +27,6 @@ Passionate about building intelligent systems and scalable software solutions.
   />
 </p>
 
----
 
 ## Education
 
@@ -45,7 +43,9 @@ Passionate about building intelligent systems and scalable software solutions.
   <img src="https://img.shields.io/badge/Year-1st%20Year-6a0dad?style=for-the-badge" />
 </div>
 
----
+
+<img width="300" height="100" alt="image" src="https://github.com/user-attachments/assets/254b1ccb-816c-4c8f-957d-7315e46eb0af" />
+
 
 ## Research Interests
 
@@ -57,7 +57,6 @@ Passionate about building intelligent systems and scalable software solutions.
   <img src="https://img.shields.io/badge/Big%20Data-4B0082?style=for-the-badge" />
 </div>
 
----
 
 ## Technical Stack
 
@@ -71,7 +70,6 @@ Passionate about building intelligent systems and scalable software solutions.
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logoColor=black" />
 </div>
 
----
 
 ## Contact
 
