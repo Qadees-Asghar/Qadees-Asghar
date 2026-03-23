@@ -1,13 +1,16 @@
 <h2 align="center">Hi there, Welcome to my GitHub Profile!</h2>
 
 <div align="center">  
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:1a0533,100:6a0dad&text=Qadees%20Asghar&fontSize=70&fontAlignY=52&fontColor=ffffff&desc=Software%20Engineer%20%7C%20ML%20%26%20LLM%20Enthusiast&descSize=24&descAlignY=78" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=6a0dad&center=true&vCenter=true&width=700&height=100&lines=Qadees+Asghar" alt="Qadees Asghar" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9400D3&center=true&vCenter=true&width=700&height=60&lines=Software+Engineer+%7C+ML+%26+LLM+Enthusiast" alt="Subtitle" />
 </div>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Qadees-Asghar&theme=github_dark" width="90%" />
 </div>
 
+---
 
 ## Profile Summary
 
@@ -28,6 +31,7 @@ Passionate about building intelligent systems and scalable software solutions.
   />
 </p>
 
+---
 
 ## Education
 
@@ -38,14 +42,19 @@ Passionate about building intelligent systems and scalable software solutions.
   />
 </div>
 
+<br/>
+
 <div align="center">
   <img src="https://img.shields.io/badge/Year-1st%20Year-6a0dad?style=for-the-badge" />
 </div>
 
+<br/><br/>
+
 <div align="center">
-  <img width="300" height="100" alt="UET Logo" src="https://github.com/user-attachments/assets/254b1ccb-816c-4c8f-957d-7315e46eb0af" />
+  <img width="500" height="167" alt="UET Logo" src="https://github.com/user-attachments/assets/254b1ccb-816c-4c8f-957d-7315e46eb0af" />
 </div>
 
+---
 
 ## Research Interests
 
@@ -57,6 +66,7 @@ Passionate about building intelligent systems and scalable software solutions.
   <img src="https://img.shields.io/badge/Big%20Data-4B0082?style=for-the-badge" />
 </div>
 
+---
 
 ## Technical Stack
 
@@ -70,6 +80,7 @@ Passionate about building intelligent systems and scalable software solutions.
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logoColor=black" />
 </div>
 
+---
 
 ## Contact
 
@@ -91,6 +102,7 @@ Passionate about building intelligent systems and scalable software solutions.
   </a>
 </div>
 
+---
 
 <p align="center">
 Built for software engineering, ML research, and future opportunities
