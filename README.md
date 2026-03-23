@@ -1,4 +1,5 @@
 <h2 align="center">Hi there, Welcome to my GitHub Profile!</h2>
+
 <div align="center">  
   <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:1a0533,100:6a0dad&text=Qadees%20Asghar&fontSize=70&fontAlignY=52&fontColor=ffffff&desc=Software%20Engineer%20%7C%20ML%20%26%20LLM%20Enthusiast&descSize=24&descAlignY=78" />
 </div>
@@ -31,20 +32,19 @@ Passionate about building intelligent systems and scalable software solutions.
 ## Education
 
 <div align="center" style="max-width:900px; margin:auto;">
-
   <img
     src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:1a0533,100:6a0dad&text=Bachelor%20of%20Engineering%20in%20Software%20Engineering&fontSize=28&fontColor=ffffff&desc=UET%20Lahore&descSize=20&descAlignY=72"
     width="100%"
   />
-
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Year-1st%20Year-6a0dad?style=for-the-badge" />
 </div>
 
-
-<img width="300" height="100" alt="image" src="https://github.com/user-attachments/assets/254b1ccb-816c-4c8f-957d-7315e46eb0af" />
+<div align="center">
+  <img width="300" height="100" alt="UET Logo" src="https://github.com/user-attachments/assets/254b1ccb-816c-4c8f-957d-7315e46eb0af" />
+</div>
 
 
 ## Research Interests
@@ -90,6 +90,7 @@ Passionate about building intelligent systems and scalable software solutions.
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge" />
   </a>
 </div>
+
 
 <p align="center">
 Built for software engineering, ML research, and future opportunities
