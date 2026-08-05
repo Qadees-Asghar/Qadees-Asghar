@@ -75,7 +75,7 @@ backed by a strong foundation in software design principles, data structures, an
       <td align="center">
         <h2>Bachelor of Science in Software Engineering</h2>
         <h4><a href="https://uet.edu.pk">University of Engineering & Technology (UET)</a> • Lahore, Pakistan</h4>
-        <h5>2025 – 2029 | Department of Computer Science | Batch 2025</h5>
+        <h5>2025 – 2029 | Department of Data Science | Batch 2025</h5>
       </td>
       <td width="130" align="center">
         <img src="Education Logo/UET CS department.png" width="130" alt="UET CS"/>
