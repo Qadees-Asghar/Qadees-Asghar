@@ -84,7 +84,7 @@ backed by a strong foundation in software design principles, data structures, an
   </table>
 </div>
 
----
+
 
 <!------------------------------------------------------------------------ Technical Stack ------------------------------------------------------------------------>
 <div align="center">
@@ -132,7 +132,7 @@ backed by a strong foundation in software design principles, data structures, an
   </table>
 </div>
 
----
+
 
 <!------------------------------------------------------------------------Research Interests ------------------------------------------------------------------------>
 
@@ -144,7 +144,6 @@ backed by a strong foundation in software design principles, data structures, an
 <img width="1032" alt="image" src="https://github.com/user-attachments/assets/9682d7fd-c876-4054-9e82-e6477f5d292b" />
 
 
----
 
 <!------------------------------------------------------------------------Github Activity ------------------------------------------------------------------------>
 
@@ -196,7 +195,7 @@ backed by a strong foundation in software design principles, data structures, an
 
 
 
----
+
 
 <!------------------------------------------------------------------------Connect with me ------------------------------------------------------------------------>
 
